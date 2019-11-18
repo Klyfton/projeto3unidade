@@ -117,7 +117,7 @@ void Sculptor::cutVoxel(int x, int y, int z)
 
 }
 /**
-*Ativa os voxels em forma de paralelep?pedo
+*Ativa os voxels em forma de paralelepipedo
 */
 void Sculptor::putBox(int x0, int y0, int z0, int x1, int y1, int z1)
 {
@@ -138,7 +138,7 @@ void Sculptor::putBox(int x0, int y0, int z0, int x1, int y1, int z1)
 
 }
 /**
-*Desativa os voxels em forma de paralelep?pedo
+*Desativa os voxels em forma de paralelepipedo
 */
 void Sculptor::cutBox(int x0, int y0, int z0, int x1, int y1, int z1)
 {
